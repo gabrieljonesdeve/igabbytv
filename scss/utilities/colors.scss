@@ -3,7 +3,7 @@
   background-color: $primary !important;
 }
 .primary-color {
-  color: $primary !important;
+  $primary: yellow !default;
 }
 .primary-border-color {
   border-color: $primary !important;
